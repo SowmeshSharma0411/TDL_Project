@@ -64,3 +64,5 @@ Severity levels:
 5-9: Mild
 10-14: Moderate
 15-21: Severe"""
+
+#Currently only handles depression and anxiety conditions
